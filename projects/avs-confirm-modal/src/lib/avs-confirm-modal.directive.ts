@@ -31,8 +31,8 @@ export class AvsConfirmModalDirective {
 
   openModal(): void {
     const options = {
-      confirmBtnText: this.translate.instant('Shared.Delete'),
-      cancelBtnText: this.translate.instant('Shared.Cancel'),
+      confirmBtnText: this.translate.instant('Shared.Yes'),
+      cancelBtnText: this.translate.instant('Shared.No'),
       closeText: this.translate.instant('Shared.CloseWindow'),
       modalSize: this.cssClass,
     };

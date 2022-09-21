@@ -4,6 +4,8 @@
     "TextToShow": "Lorem ipsum doood",
     "Delete": "Delete",
     "Cancel": "Cancel",
-    "CloseWindow": "CloseWindow"
+    "CloseWindow": "CloseWindow",
+    "Yes":"Yes",
+    "No":"No"
   }
 }
